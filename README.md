@@ -60,7 +60,3 @@
 
 欢迎提交问题和拉取请求来改进此项目。
 
-## 许可证
-
-此项目采用 MIT 许可证。详情请参阅 [LICENSE](https://github.com/yourusername/excel-translate-tool/blob/main/LICENSE) 文件。
-
